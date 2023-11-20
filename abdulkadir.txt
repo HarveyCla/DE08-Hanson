@@ -1,2 +1,3 @@
 bu bir ikinci branch çalışmasıdır
 20.11.2023 tarihinde oluşturuldu
+değişiklik
